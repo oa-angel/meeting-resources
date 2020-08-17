@@ -44,9 +44,8 @@ At this group we rotate formats. This week it is a ____________ (insert from bel
 
 > Chairs are allotted 10-15 minutes of time. **Secretary to time**
 
-## Chair Speaks
+### Chair Speaks
 
-===
 
 # After the Chair
 
@@ -56,7 +55,7 @@ May we have someone to do the time card?
 
 Sharing time is  2 minutes in order that as many people as possible get to share. When your time is up, the time keeper will unmute themselves to say “time” so you know where you are.  
 
-> (Switch to 3 minutes if there are fewer than 15 present)
+> Switch to 3 minutes if there are fewer than 15 present
 
 The last 10 minutes are reserved for newcomers and shy sharers, but if you are new feel free to share at any time, and also do not feel that you have to share.
 
@@ -96,3 +95,4 @@ And we close the meeting with the Serenity Prayer.
 
 > Unmute everyone
 
+### End the Meeting
