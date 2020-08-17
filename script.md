@@ -34,20 +34,19 @@ Some points to note:
 
 At this group we rotate formats. This week it is a ____________ (insert from below list)
 
-> week one:  chair on a step
-
-> week two:  chair on any topic
-
-> week three: chair on a tradition 
-
-> week four:  chair on any topic
-
-> week five:  chair on a topic of the secretary's choosing
+> Steps and Traditions are read based on the month (Step 1 - January, etc). Move from Weeks 1-5 in the month. 
+> 1. chair on a step
+> 2. chair on any topic
+> 3. chair on a tradition 
+> 4. chair on any topic
+> 5. chair on a topic of the secretary's choosing
 
 
 > Chairs are allotted 10-15 minutes of time. **Secretary to time**
 
-(CHAIR SPEAKS)
+## Chair Speaks
+
+===
 
 # After the Chair
 
