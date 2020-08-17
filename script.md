@@ -35,9 +35,13 @@ Some points to note:
 At this group we rotate formats. This week it is a ____________ (insert from below list)
 
 > week one:  chair on a step
+
 > week two:  chair on any topic
+
 > week three: chair on a tradition 
+
 > week four:  chair on any topic
+
 > week five:  chair on a topic of the secretary's choosing
 
 
