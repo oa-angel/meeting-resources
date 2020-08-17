@@ -1,6 +1,7 @@
 ## Actions prior to the meeting 
-+ Assign readers for the Preamble, 12 Steps, OA For Today and Promises
++ Assign readers for the Preamble, 12 Steps, OA For Today and one of the final readings _(Promises, Commitment, What is Abstinence, Acceptance, Yesterday Today & Tomorrow)_
 + Close the Chat Function
++ Make sure someone is ready to share the PayPal Pool
 
 ## Reading this script
 
