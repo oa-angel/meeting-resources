@@ -18,14 +18,13 @@ Welcome to the Monday night Islington meeting of Overeaters Anonymous. My name i
 
 ## Readings 
 
-We begin this meeting with three readings.
-
 > Remember to assign readers prior to the beginning of the meeting
 
-Preamble
-12 Steps of OA
-OA Just for today
+We begin this meeting with three readings. Can someone read...
 
++ The Preamble
++ 12 Steps of OA
++ OA for today
 
 
 Some points to note:
